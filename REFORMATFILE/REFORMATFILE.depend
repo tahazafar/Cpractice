@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490893341 source:c:\users\taha\documents\codeblocks\reformatfile\main.c
+	<stdio.h>
+	<ctype.h>
+

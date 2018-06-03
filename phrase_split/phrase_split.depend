@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514571717 source:c:\users\taha\documents\codeblocks\phrase_split\main.c
+	<stdio.h>
+	<stdlib.h>
+

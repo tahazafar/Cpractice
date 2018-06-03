@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511358020 source:c:\users\taha\documents\codeblocks\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517098909 source:c:\users\taha\documents\codeblocks\new222\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517086721 source:c:\users\taha\documents\codeblocks\ppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<ctype.h>
+
