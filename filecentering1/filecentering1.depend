@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493999516 source:c:\users\taha\documents\codeblocks\filecentering1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

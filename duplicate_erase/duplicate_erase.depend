@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515688902 source:c:\users\taha\documents\codeblocks\duplicate_erase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
