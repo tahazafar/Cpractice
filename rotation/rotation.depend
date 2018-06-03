@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516145679 source:c:\users\taha\documents\codeblocks\rotation\main.c
+	<stdio.h>
+	<stdlib.h>
+

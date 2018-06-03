@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511965716 source:c:\users\taha\documents\codeblocks\simple permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+
