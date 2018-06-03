@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510242306 source:c:\users\taha\documents\codeblocks\laib 5 ex 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
