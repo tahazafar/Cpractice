@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498941334 source:c:\users\taha\documents\codeblocks\algorithms question 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
