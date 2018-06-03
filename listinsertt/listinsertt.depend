@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516023624 source:c:\users\taha\documents\codeblocks\listinsertt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

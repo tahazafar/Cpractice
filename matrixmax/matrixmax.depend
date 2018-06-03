@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514574247 source:c:\users\taha\documents\codeblocks\matrixmax\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514399340 source:c:\users\taha\documents\codeblocks\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
